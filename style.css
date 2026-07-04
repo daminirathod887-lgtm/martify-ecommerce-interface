@@ -22,7 +22,7 @@
 }
 
 .logo{
-    background-image: url("logo.jpeg");
+    background-image: url("images/logo.jpeg");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -149,7 +149,7 @@ span{
 
 /* Hero Section */
 .hero-section{
-    background-image: url("Hero_Image.png");
+    background-image: url("images/Hero_Image.png");
     background-size: cover;
     height: 600px;
     display: flex;
